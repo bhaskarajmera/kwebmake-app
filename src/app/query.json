@@ -1,0 +1,329 @@
+{
+  "data": {
+    "pages": {
+      "nodes": [
+        {
+          "homepage": {
+            "banners": [
+              {
+                "bannerImage": {
+                  "node": {
+                    "sourceUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/05/Interior-Emulsions-Home2-page-banner.webp",
+                    "__typename": "MediaItem"
+                  },
+                  "__typename": "AcfMediaItemConnectionEdge"
+                },
+                "bannersTitle": "Interior Emulsions 1",
+                "bannerDescription": "Excellent Fungal Resistance | Smooth Finish 1",
+                "bannerButton": {
+                  "title": "Read More",
+                  "url": "#",
+                  "target": "",
+                  "__typename": "AcfLink"
+                },
+                "__typename": "HomepageBanners"
+              },
+              {
+                "bannerImage": {
+                  "node": {
+                    "sourceUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/05/Exterior-Emulsions-Home-page-banner-1336-x-650.webp",
+                    "__typename": "MediaItem"
+                  },
+                  "__typename": "AcfMediaItemConnectionEdge"
+                },
+                "bannersTitle": "Interior Emulsions 2",
+                "bannerDescription": "Excellent Fungal Resistance | Smooth Finish 2",
+                "bannerButton": {
+                  "title": "Read More",
+                  "url": "#",
+                  "target": "",
+                  "__typename": "AcfLink"
+                },
+                "__typename": "HomepageBanners"
+              }
+            ],
+
+
+
+            "homeAboutTitle": "Bringing your dreams to life",
+            "homeAboutSubtitle": "About Astral Paints",
+            "homeAboutButton": {
+              "target": "",
+              "title": "Read More",
+              "url": "#",
+              "__typename": "AcfLink"
+            },
+            "homeAboutVideoImage": {
+              "node": {
+                "sourceUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/05/image-9.jpg",
+                "__typename": "MediaItem"
+              },
+              "__typename": "AcfMediaItemConnectionEdge"
+            },
+            "homeAboutVideoUrl": "https://www.google.com/",
+            "homeAboutDescription": "<p>Lorem ipsum dolor sit amet consectetur. Placerat elementum lobortis phasellus porttitor amet odio tempor. Ac molestie fames id urna dui posuere ultricies aliquam. Gravida et ac ac donec. Lacus est diam at in pharetra velit luctus id pellentesque.</p>\n<p>Lorem ipsum dolor sit amet consectetur. Placerat elementum lobortis phasellus porttitor amet odio tempor. Ac molestie fames id urna dui posuere ultricies aliquam. Gravida et ac ac donec. Lacus est diam at in pharetra velit luctus id pellentesque.</p>\n",
+
+
+
+            "homeCategoryTitle": "Wide range of Colours",
+            "homeCategorySubtitle": "Category",
+
+
+
+            "homeServicesTitle": "Make your life comfortable",
+            "homeServicesSubtitle": "Services",
+
+
+
+            "homeColoursTitle": "Popular Colours",
+            "homeColoursSubtitle": "Colours",
+            "homeColoursButton": {
+              "target": "",
+              "title": "Explore More",
+              "url": "#",
+              "__typename": "AcfLink"
+            },
+
+
+
+            "homeJoinBackgroundImage": {
+              "node": {
+                "sourceUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/05/become-a-dealer.jpg",
+                "__typename": "MediaItem"
+              },
+              "__typename": "AcfMediaItemConnectionEdge"
+            },
+            "homeJoinTitle": "Become a Dealer",
+            "homeJoinSubtitle": "Join the Success Journey",
+            "homeJoinButton": {
+              "target": "",
+              "title": "Read More",
+              "url": "#",
+              "__typename": "AcfLink"
+            },
+            "homeJoinDescription": "<p>ipsum dolor sit amet consectetur. Integer dui quam nisi in ornare. Nec in tristique et ultrices sit ullamcorper massa tempor et.</p>\n",
+            
+            
+            
+            "blogTitle": "Latest",
+            "blogSubtitle": "Our Blog",
+
+
+            
+            "categories": [
+              {
+                "link": "#",
+                "title": "Interior Paints",
+                "image": {
+                  "node": {
+                    "sourceUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/07/image.jpg",
+                    "__typename": "MediaItem"
+                  },
+                  "__typename": "AcfMediaItemConnectionEdge"
+                },
+                "__typename": "HomepageCategories"
+              },
+              {
+                "link": "#",
+                "title": "Exterior Paints",
+                "image": {
+                  "node": {
+                    "sourceUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/07/image-1.jpg",
+                    "__typename": "MediaItem"
+                  },
+                  "__typename": "AcfMediaItemConnectionEdge"
+                },
+                "__typename": "HomepageCategories"
+              },
+              {
+                "link": "#",
+                "title": "Water Proofing",
+                "image": {
+                  "node": {
+                    "sourceUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/07/image-2.jpg",
+                    "__typename": "MediaItem"
+                  },
+                  "__typename": "AcfMediaItemConnectionEdge"
+                },
+                "__typename": "HomepageCategories"
+              },
+              {
+                "link": "#",
+                "title": "Undercoats",
+                "image": {
+                  "node": {
+                    "sourceUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/07/image-3.jpg",
+                    "__typename": "MediaItem"
+                  },
+                  "__typename": "AcfMediaItemConnectionEdge"
+                },
+                "__typename": "HomepageCategories"
+              },
+              {
+                "link": "#",
+                "title": "Painting Tools",
+                "image": {
+                  "node": {
+                    "sourceUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/07/image-4.jpg",
+                    "__typename": "MediaItem"
+                  },
+                  "__typename": "AcfMediaItemConnectionEdge"
+                },
+                "__typename": "HomepageCategories"
+              }
+            ],
+            "__typename": "Homepage"
+          },
+
+
+          
+          "seo": {
+            "canonical": "https://astralpaints.kwebmakerdigitalagency.com/homepage/",
+            "metaKeywords": "",
+            "metaDesc": "",
+            "title": "Homepage - Astral Paints",
+            "opengraphType": "article",
+            "opengraphSiteName": "Astral Paints",
+            "opengraphTitle": "Homepage - Astral Paints",
+            "opengraphDescription": "",
+            "opengraphUrl": "https://astralpaints.kwebmakerdigitalagency.com/homepage/",
+            "schema": {
+              "raw": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://astralpaints.kwebmakerdigitalagency.com/homepage/\",\"url\":\"https://astralpaints.kwebmakerdigitalagency.com/homepage/\",\"name\":\"Homepage - Astral Paints\",\"isPartOf\":{\"@id\":\"https://astralpaints.kwebmakerdigitalagency.com/#website\"},\"datePublished\":\"2024-05-20T09:17:16+00:00\",\"dateModified\":\"2024-07-02T04:48:25+00:00\",\"breadcrumb\":{\"@id\":\"https://astralpaints.kwebmakerdigitalagency.com/homepage/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://astralpaints.kwebmakerdigitalagency.com/homepage/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://astralpaints.kwebmakerdigitalagency.com/homepage/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://astralpaints.kwebmakerdigitalagency.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Homepage\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://astralpaints.kwebmakerdigitalagency.com/#website\",\"url\":\"https://astralpaints.kwebmakerdigitalagency.com/\",\"name\":\"Astral Paints\",\"description\":\"\",\"publisher\":{\"@id\":\"https://astralpaints.kwebmakerdigitalagency.com/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://astralpaints.kwebmakerdigitalagency.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://astralpaints.kwebmakerdigitalagency.com/#organization\",\"name\":\"Astral Paints\",\"url\":\"https://astralpaints.kwebmakerdigitalagency.com/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://astralpaints.kwebmakerdigitalagency.com/#/schema/logo/image/\",\"url\":\"https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/06/logo.svg\",\"contentUrl\":\"https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/06/logo.svg\",\"width\":1,\"height\":1,\"caption\":\"Astral Paints\"},\"image\":{\"@id\":\"https://astralpaints.kwebmakerdigitalagency.com/#/schema/logo/image/\"}}]}",
+              "__typename": "SEOPostTypeSchema"
+            },
+            "opengraphImage": {
+              "mediaItemUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/05/Exterior-Emulsions-Home-page-banner-1336-x-650.webp",
+              "__typename": "MediaItem"
+            },
+            "__typename": "PostTypeSEO"
+          },
+          "__typename": "Page"
+        }
+      ],
+      "__typename": "RootQueryToPageConnection"
+    },
+
+
+
+    "allColourCategory": {
+      "nodes": [
+        {
+          "name": "Popular",
+          "colours": {
+            "nodes": [
+              {
+                "title": "Colour Name 5",
+                "slug": "colour-name-5",
+                "colourInfo": {
+                  "selectColor": "#9e1eed",
+                  "colourRgb": "254,175,37",
+                  "__typename": "ColourInfo"
+                },
+                "__typename": "Colour"
+              },
+              {
+                "title": "Colour Name 4",
+                "slug": "colour-name-4",
+                "colourInfo": {
+                  "selectColor": "#e2ae34",
+                  "colourRgb": "254,175,37",
+                  "__typename": "ColourInfo"
+                },
+                "__typename": "Colour"
+              },
+              {
+                "title": "Colour Name 3",
+                "slug": "colour-name-3",
+                "colourInfo": {
+                  "selectColor": "#edd525",
+                  "colourRgb": "254,175,37",
+                  "__typename": "ColourInfo"
+                },
+                "__typename": "Colour"
+              }
+            ],
+            "__typename": "ColourCategoryToColourConnection"
+          },
+          "__typename": "ColourCategory"
+        }
+      ],
+      "__typename": "RootQueryToColourCategoryConnection"
+    },
+    "blogs": {
+      "nodes": [
+        {
+          "featuredImage": {
+            "node": {
+              "sourceUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/06/blog1.webp",
+              "slug": "blog1",
+              "__typename": "MediaItem"
+            },
+            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge"
+          },
+          "slug": "10-stylish-cream-colour-combination-for-your-home-duplicate",
+          "title": "10 Stylish Cream Colour Combination for Your Home (DUPLICATE)",
+          "date": "2024-07-01T11:25:09",
+          "__typename": "Blog"
+        },
+        {
+          "featuredImage": {
+            "node": {
+              "sourceUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/06/blog1.webp",
+              "slug": "blog1",
+              "__typename": "MediaItem"
+            },
+            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge"
+          },
+          "slug": "colour-combination-for-your-home-duplicate",
+          "title": "Colour Combination for Your Home (DUPLICATE)",
+          "date": "2024-07-01T11:24:09",
+          "__typename": "Blog"
+        },
+        {
+          "featuredImage": {
+            "node": {
+              "sourceUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/06/blog1.webp",
+              "slug": "blog1",
+              "__typename": "MediaItem"
+            },
+            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge"
+          },
+          "slug": "10-stylish-cream-colour-combination-for-your-home",
+          "title": "10 Stylish Cream Colour Combination for Your Home",
+          "date": "2024-06-25T11:09:10",
+          "__typename": "Blog"
+        },
+        {
+          "featuredImage": {
+            "node": {
+              "sourceUrl": "https://astralpaints.kwebmakerdigitalagency.com/wp-content/uploads/2024/06/blog1.webp",
+              "slug": "blog1",
+              "__typename": "MediaItem"
+            },
+            "__typename": "NodeWithFeaturedImageToMediaItemConnectionEdge"
+          },
+          "slug": "colour-combination-for-your-home",
+          "title": "Colour Combination for Your Home",
+          "date": "2024-06-24T11:09:37",
+          "__typename": "Blog"
+        }
+      ],
+      "__typename": "RootQueryToBlogConnection"
+    }
+  },
+  "extensions": {
+    "debug": [],
+    "graphqlSmartCache": {
+      "graphqlObjectCache": []
+    },
+    "queryAnalyzer": {
+      "keys": "7ca7715c6c885741881462d0a8701c6bb82a88e551a72d7a22caac5f1d3c46e9 graphql:Query list:page list:colourcategory list:blog cG9zdDo4 dGVybToyMg== cG9zdDozMzA= cG9zdDozMjk= cG9zdDoyOTE= cG9zdDoyOTM= cG9zdDoxNQ== cG9zdDoxNg== cG9zdDo3Mg== cG9zdDo5Mw== cG9zdDozMjA= cG9zdDozMjE= cG9zdDozMjI= cG9zdDozMjM= cG9zdDozMjQ= cG9zdDozMDE= cG9zdDozMDA= cG9zdDoyOTk= cG9zdDoyOTI=",
+      "keysLength": 361,
+      "keysCount": 24,
+      "skippedKeys": "",
+      "skippedKeysSize": 0,
+      "skippedKeysCount": 0,
+      "skippedTypes": []
+    }
+  }
+}
